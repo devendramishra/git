@@ -1,7 +1,6 @@
 <?php 
 
 
-echo "devendra";    
-echo "babu";
+echo "now i ma try new things";
 
 ?>
